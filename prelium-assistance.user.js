@@ -6,8 +6,8 @@
 // @author       Prelium
 // @match        https://www.odoo.com/help-form*
 // @match        https://www.odoo.com/*/help-form*
-// @updateURL    https://raw.githubusercontent.com/ORG/REPO/main/prelium-assistance.user.js
-// @downloadURL  https://raw.githubusercontent.com/ORG/REPO/main/prelium-assistance.user.js
+// @updateURL    https://raw.githubusercontent.com/Cedric-prelium/odoo_help_script/main/prelium-assistance.user.js
+// @downloadURL  https://raw.githubusercontent.com/Cedric-prelium/odoo_help_script/main/prelium-assistance.user.js
 // @grant        none
 // ==/UserScript==
 (() => {
