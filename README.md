@@ -13,7 +13,7 @@ En tant que partenaire, le formulaire odoo.com affiche la liste de tous nos cont
 1. Installer l'extension **Tampermonkey** : [Chrome](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) · [Firefox](https://addons.mozilla.org/fr/firefox/addon/tampermonkey/) · [Edge](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd)
 2. **Chrome uniquement** : ouvrir `chrome://extensions` → Tampermonkey → *Détails* → activer **Autoriser les scripts utilisateur**.
 3. Ouvrir le lien suivant : Tampermonkey l'intercepte et affiche sa page d'installation, cliquer alors sur **Installer**.
-   **https://raw.githubusercontent.com/ORG/REPO/main/prelium-assistance.user.js**
+   **[https://raw.githubusercontent.com/ORG/REPO/main/prelium-assistance.user.js](https://raw.githubusercontent.com/Cedric-prelium/odoo_help_script/main/prelium-assistance.user.js)**
 
    > Depuis la page du fichier sur GitHub, cliquer sur le bouton **Raw**.
    > Si le code s'affiche en texte brut au lieu de la page Tampermonkey, l'extension n'est pas active (revoir les étapes 1 et 2).
